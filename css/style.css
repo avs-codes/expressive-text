@@ -1,0 +1,56 @@
+body {
+    background-color: #F69B30;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 4vw;
+    margin-left: 3vw;
+    margin-right: 3vw;
+  }
+  
+  p {
+    padding-left: .25em;
+  }
+  
+  .black {
+    background-color: black;
+  }
+  
+  .oversize {
+    background-color: black;
+  }
+  
+  .oversize:hover {
+    font-size: 9vw;
+  }
+  
+  p:hover {
+    color: #F69B30;
+  }
+  
+  p:hover .red{
+    color: red;
+  }
+  
+  p:hover .purple-hover{
+    color: #673685;
+  }
+  
+  h1 {
+    font-weight: bold;
+    font-size: 20.44vw;
+    margin-left: auto;
+    margin-right: 50%;
+    margin-top: -2vw;
+    margin-bottom: 1vw;
+  }
+  
+  .purple {
+    color: #673685;
+  }
+  
+  h2 {
+    font-size: 6vw;
+    float: right;
+    margin-top: -8vw;
+  }
+  
+  
